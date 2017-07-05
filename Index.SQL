@@ -1,0 +1,1 @@
+CREATE INDEX Donut_Index ON Donut(Donut_Name);
